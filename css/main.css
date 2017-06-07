@@ -1,0 +1,175 @@
+
+/*<!--
+	Author: Pedro Santana
+	Date: 12/7/2014;
+-->*/
+
+    #Interest{
+    	margin-left: 6%;
+    	color: #660000;
+    }
+
+    label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+    color: #660000;
+	}
+	.inputInfo{
+		border-radius: 20px;
+		width: 20%;
+		display: inline-block;
+		float: left;
+		margin-left: 2%;
+		}
+	.dateOfBirth{
+		border-radius: 20px;
+		width: 20%;
+		display: inline-block;
+		float: left;
+		margin-left: 2%;
+		height: 30px;
+		}
+	#provinceLabel{
+		margin-right: 2%;
+	}
+
+	select{
+		float: left;
+		width: 19%;
+		margin-left: 2px;
+		}
+
+	span{
+		float: left;
+		margin-left: 2%;
+	}
+
+	#submit{
+		float: left;
+		clear: left;
+		margin-top: 1%;
+		margin-left: 20%;
+		margin-right: 1%;
+		}
+	#reload{
+		float: left;
+		margin-top: 1%;
+			
+	}
+
+	.formContainer{
+		background-color: #b0e0e6;
+		margin-right: 1%;
+		margin-left: 1%;
+		height: 600px;
+	}
+	#saveForm{
+		margin-left: 1%;
+	}
+	#JavaScript{
+		background-color: #FF6600;
+		width: 80%;
+		border-radius: 7px;
+		margin-left: 1%;
+		text-align: center;
+		color: #FFFFFF;
+	}
+	#status {
+	  width: 8%;
+	  color: #FFFFFF;
+	  display:inline;
+	  font-size: 20px;
+	}
+	#Network{
+		display: inline-block;
+		font-size: 20px;
+		margin-left: 1%;
+	}
+	#localStor{
+		display: inline-block;
+		font-size: 20px;
+		margin-left: 1%;
+	}
+	#localstatus{
+		display: inline-block;
+		font-size: 20px;
+		margin-left: 1%;
+	    border-radius:5px;
+	}
+
+	.online {
+	  background: #00CC00;
+	  border-radius:5px;
+	}
+
+	.offline {
+	  background: red;
+	  border-radius:5px;
+	}
+	#username{
+		border-radius: 3px;
+	}
+	#dateSpan{
+		border-radius: 3px;
+	}	
+	#E-mail{
+		border-radius: 3px;
+	}
+	#PostalCode{
+		border-radius: 3px;
+	}
+	#age{
+		border-radius: 3px;
+	}
+	#icon{
+		float: left;
+			margin-top: 2%;
+			margin-left: 1%;
+	}
+	#saveToLocal{
+		background-color: #FF3300;
+		color: #FFFFFF;
+		border-radius: 3px;
+		width: 50%;
+		margin-left: 1%;
+	}
+	#clearLocalStor{
+		background-color: #FF3300;
+		color: #FFFFFF;
+		border-radius: 3px;
+		width: 50%;
+		margin-left: 1%;
+	}
+	#populate{
+		background-color: #FF3300;
+		color: #FFFFFF;
+		border-radius: 3px;
+		width: 50%;
+		margin-left: 1%;
+	}
+	#offlineForm{
+		background-color: #FF3300;
+		color: #FFFFFF;
+		border-radius: 3px;
+		width: 50%;
+		margin-left: 1%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
